@@ -1,0 +1,5 @@
+# Spiderman Database
+
+Correctly complete the following assignment using Java and either Access with UCanAccess, or with Derby.  Follow all directions.  Note the types can be simplified to what we have used and field names do not have to include spaces.  Make sure your queries are built properly with field lists and search conditions and the results displayed properly. The final three .java files and the three separate `output.txt` text files (copied and pasted from the console window) should be submitted. The output for each part will be the table or query results printed.  Apply basic formatting with `printf` with field widths, decimal places, alignments (- sign left aligns `varchar` string fields, ex. %-25s will left align a string field in a field width of 25).
+
+Hint:  Good guides: ex201u with ucanaccess (ex201d with derby) for creating a table, inserting records, updating records, and deleting records, ex202au with ucanaccess (ex202d for derby) for querying a table with a field list and search conditions. 

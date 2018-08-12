@@ -1,0 +1,3 @@
+15-8
+
+Write an applet (or update exercise 15-7) where the user is asked their name in an input dialog box. You will then draw their name in a large sized font on the applet. Using font metrics draw 5 thick bordered 2D rectangles in different colors around the user's name (the size will be dependent on the string but will be determined by the font metrics). Put these 2D rectangles in an array so you can print them in a for loop.

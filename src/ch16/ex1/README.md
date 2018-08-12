@@ -1,0 +1,3 @@
+16-1
+
+Write an applet for Scooby-Doo! Get a picture of the Scoobys and a sound file. Draw a string to tell it is Scooby-Doo. Have the sound file play over and over. Have the sound stop if the user minimizes the web browser, but start (and loop) again when they restore the web browser. Also put on 2 buttons to let the user play (and loop) the sound file or stop the sound file. Adjust the size of the web page as needed to hold the size of your graphic. 

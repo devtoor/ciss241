@@ -1,0 +1,5 @@
+r-2
+
+Create a layout for the frame with the checkboxes, labels,textfields, and buttons.  Attached is part a with the components declared.  First use (part b) a FlowLayout with GridLayout panels, then use (part c) a BorderLayout with the GridLayout panels.  Don't worry about the functionality of the events.  This was part of chapter 11 review exercises.  A picture of the output frame is also attached.
+
+For each part (in the constructor), get the frame's content pane, then set it to a FlowLayout (each panel flows across) or BorderLayout (each panel in a separate area).  Then for each of the three panels, set a GridLayout with the proper number of rows and columns.  Add the proper components into the panel and the panel into the frame's container.  Make sure to set the size and the visibility of the frame.  Since the frame class definition includes a main, the frame can run itself.

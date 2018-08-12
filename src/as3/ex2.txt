@@ -1,0 +1,54 @@
+Added some new comics in the collection
+---------------------------------------------------------------------------------------------------------------------------
+|    Comic Name    | Issue Number | Issue Date |                Issue Name                | Issue Value | Mint Condition? |
+---------------------------------------------------------------------------------------------------------------------------
+| Amazing SM       |           89 |    10/1/70 | Doc Ock Lives                            |       $6.50 |              No |
+| Spectacular SM   |           92 |     7/1/84 | What Is The Answer                       |       $4.50 |              No |
+| Web Of SM        |           35 |     2/1/88 | You Can Go Home Again                    |       $4.00 |              No |
+| Amazing SM       |          382 |    10/1/93 | Emerald Rage                             |       $4.00 |             Yes |
+| Amazing SM       |          400 |     4/1/95 | A Death In The Family                    |       $5.00 |             Yes |
+| Spectacular SM   |           37 |    12/1/79 | Into The Hive                            |       $6.00 |              No |
+| Amazing SM       |          194 |     7/1/79 | Never Let The Black Cat Cross Your Path  |      $10.00 |              No |
+| Web Of SM        |          125 |     6/1/95 | Searching                                |       $4.00 |             Yes |
+---------------------------------------------------------------------------------------------------------------------------
+
+Update some comics' issue value and issue name
+---------------------------------------------------------------------------------------------------------------------------
+|    Comic Name    | Issue Number | Issue Date |                Issue Name                | Issue Value | Mint Condition? |
+---------------------------------------------------------------------------------------------------------------------------
+| Amazing SM       |           89 |    10/1/70 | Doc Ock Lives                            |       $7.00 |              No |
+| Spectacular SM   |           92 |     7/1/84 | What Is The Answer?                      |       $5.00 |              No |
+| Web Of SM        |           35 |     2/1/88 | You Can Go Home Again                    |       $4.00 |              No |
+| Amazing SM       |          382 |    10/1/93 | Emerald Rage                             |       $4.00 |             Yes |
+| Amazing SM       |          400 |     4/1/95 | A Death In The Family                    |       $5.00 |             Yes |
+| Spectacular SM   |           37 |    12/1/79 | Into The Hive                            |       $6.00 |              No |
+| Amazing SM       |          194 |     7/1/79 | Never Let The Black Cat Cross Your Path  |      $10.00 |              No |
+| Web Of SM        |          125 |     6/1/95 | Searching                                |       $4.00 |             Yes |
+---------------------------------------------------------------------------------------------------------------------------
+
+Delete Amazing SM with issue number 382
+---------------------------------------------------------------------------------------------------------------------------
+|    Comic Name    | Issue Number | Issue Date |                Issue Name                | Issue Value | Mint Condition? |
+---------------------------------------------------------------------------------------------------------------------------
+| Amazing SM       |           89 |    10/1/70 | Doc Ock Lives                            |       $7.00 |              No |
+| Spectacular SM   |           92 |     7/1/84 | What Is The Answer?                      |       $5.00 |              No |
+| Web Of SM        |           35 |     2/1/88 | You Can Go Home Again                    |       $4.00 |              No |
+| Amazing SM       |          400 |     4/1/95 | A Death In The Family                    |       $5.00 |             Yes |
+| Spectacular SM   |           37 |    12/1/79 | Into The Hive                            |       $6.00 |              No |
+| Amazing SM       |          194 |     7/1/79 | Never Let The Black Cat Cross Your Path  |      $10.00 |              No |
+| Web Of SM        |          125 |     6/1/95 | Searching                                |       $4.00 |             Yes |
+---------------------------------------------------------------------------------------------------------------------------
+
+Added a record at the bottom of the table
+---------------------------------------------------------------------------------------------------------------------------
+|    Comic Name    | Issue Number | Issue Date |                Issue Name                | Issue Value | Mint Condition? |
+---------------------------------------------------------------------------------------------------------------------------
+| Amazing SM       |           89 |    10/1/70 | Doc Ock Lives                            |       $7.00 |              No |
+| Spectacular SM   |           92 |     7/1/84 | What Is The Answer?                      |       $5.00 |              No |
+| Web Of SM        |           35 |     2/1/88 | You Can Go Home Again                    |       $4.00 |              No |
+| Amazing SM       |          400 |     4/1/95 | A Death In The Family                    |       $5.00 |             Yes |
+| Spectacular SM   |           37 |    12/1/79 | Into The Hive                            |       $6.00 |              No |
+| Amazing SM       |          194 |     7/1/79 | Never Let The Black Cat Cross Your Path  |      $10.00 |              No |
+| Web Of SM        |          125 |     6/1/95 | Searching                                |       $4.00 |             Yes |
+| Amazing SM       |            0 |    3/25/18 | Jay Morales                              |       $5.00 |             Yes |
+---------------------------------------------------------------------------------------------------------------------------

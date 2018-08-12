@@ -1,0 +1,21 @@
+Query for comics whose value is $5.00 or over,
+sorted from highest to lowest.
+--------------------------------------------------------------
+|    Comic Name    | Issue Date | Issue Number | Issue Value |
+--------------------------------------------------------------
+| Amazing SM       |     7/1/79 |          194 |      $10.00 |
+| Amazing SM       |    10/1/70 |           89 |       $7.00 |
+| Spectacular SM   |    12/1/79 |           37 |       $6.00 |
+| Amazing SM       |    3/25/18 |            0 |       $5.00 |
+| Amazing SM       |     4/1/95 |          400 |       $5.00 |
+| Spectacular SM   |     7/1/84 |           92 |       $5.00 |
+--------------------------------------------------------------
+
+Query for all Amazing SM with issue name before 200.
+-------------------------------------------------------------------------------------------
+|                Issue Name                |    Comic Name    | Issue Number | Issue Date |
+-------------------------------------------------------------------------------------------
+| Doc Ock Lives                            | Amazing SM       |           89 |    10/1/70 |
+| Never Let The Black Cat Cross Your Path  | Amazing SM       |          194 |     7/1/79 |
+| Jay Morales                              | Amazing SM       |            0 |    3/25/18 |
+-------------------------------------------------------------------------------------------
